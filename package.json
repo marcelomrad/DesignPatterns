@@ -1,0 +1,21 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "Study about design patterns",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node scripts/selectPattern.mjs",
+    "build": "node scripts/buildPattern.mjs",
+    "clean": "node scripts/cleanPattern.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}

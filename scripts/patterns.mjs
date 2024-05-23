@@ -1,0 +1,1 @@
+export const patterns = ['Creational/Factory', 'Creational/Builder'];
